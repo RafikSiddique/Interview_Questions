@@ -1,6 +1,6 @@
-######################################################### Interview_Questions ##########################################################################
+#Interview_Questions
                                     
-                                ********************  Flutter-Specific Questions:  **********************
+                                        ********************  Flutter-Specific Questions:  **********************
 
 1. What projects have you worked on?
 2. What is a stream and future, and could you explain the difference between them?
@@ -29,7 +29,7 @@
 25. What security measures would you implement in your app?
 26. How can you improve the performance of your app?
 
-Dart-Specific Questions:
+                                        ********************  Dart-Specific Questions:  **********************
 
 27. How can you confirm that Dart is an object-oriented programming language?
 28. Why did Flutter choose Dart?
